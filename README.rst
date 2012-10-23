@@ -12,7 +12,7 @@ compute nodes access them via iSCSI.
 Requirements
 ============
 
-* OpenStack Nova (tested with 2012.1)
+* OpenStack Nova (tested with 2012.1, see Notes_)
 * paramiko (as required by nova-volume SAN driver)
 
 Installation
