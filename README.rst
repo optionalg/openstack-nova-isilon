@@ -33,3 +33,9 @@ Settings
   to allow user run ``isi`` only with ``sudo``, defaults to ``isi``
 * ``isilon_target_iqn_prefix`` a prefix used to build a full IQN from target
   name, should be like ``iqn.2001-07.com.isilon:smth:``
+
+Notes
+=====
+
+* https://review.openstack.org/14491 needs to be merged in for the driver to
+  work correctly
